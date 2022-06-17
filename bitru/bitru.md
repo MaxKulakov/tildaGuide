@@ -27,11 +27,11 @@
 
 <script>
 (function () {
-	// Id блока, в котором будет слайдер
+	// ID slider block
 	let block = $("#rec456836874");
-	// Class элемента, в котором будет находиться слайдер
+	// ID shape in block
 	let wrap = $(".tn-elem__4568368741654782064227");
-	// Id блоков, которые будут слайдами
+	// ID slides
 	let slides = $("#rec456837001, #rec457067559");
 
 	wrap.addClass("tildoshnaya-slider-owl");
@@ -39,21 +39,12 @@
 	box.append('<div class="owl-carousel owl-theme"></div>');
 	slides.appendTo(block.find('.owl-carousel'));
 	let owl = wrap.find('.owl-carousel').owlCarousel({
-		// Зациклить слайдер - true
-		// Без зацикленности - false
 	    loop:true,
 	    nav:false,
 	    dots: false,
-	    // Колличество карточек
 	    items: 1,
 
-	    // Адаптивность
 	    responsive:{
-	    	// 0 это минимальная ширина экрана, при которой включается следующая часть кода
-	        // 0:{
-	        //	items: 1 это колличество слайдов на экране
-	        //     items:1
-	        // },
 	        0:{
 	            items:1
 	        },
@@ -64,7 +55,6 @@
 	            items:1
 	        },
 	    }
-	    // Адаптивность: конец
 	})
 
 
@@ -80,7 +70,7 @@
 
 <script>
 function auto_play() {  $("[href='#slider_right']").click()};
-var timemode = 8000; /* Скорость автослайдинга */
+var timemode = 8000; /* Slider speed */
 var autoPlay = setInterval( auto_play, timemode );
 </script>
 
