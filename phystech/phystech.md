@@ -152,89 +152,65 @@ $(PopWindID + " .t-popup__container").parent(".t-popup").addClass("parpadding")
 ![Crop large text](images/large_text.png?raw=true "Crop large text")
 ```bash
 <style>
-    /*.doc-background:hover{*/
-    /*    background-color: #FF0000;*/
-    /*    background-opacity: 0.15;*/
-    /*}*/
+    .doc-name {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .doc-name .tn-atom {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
 
     @media (max-width: 480px) {
         .doc-name {
             max-width: 248px;
             width: 248px;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
         }
         .doc-name .tn-atom {
             max-width: 248px;
             width: 248px;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
         }
     }
     @media (min-width: 481px) {
         .doc-name {
             max-width: 398px;
             width: 398px;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
         }
         .doc-name .tn-atom {
             max-width: 398px;
             width: 398px;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
         }
     }
     @media (min-width: 640px) {
         .doc-name {
             max-width: 558px;
             width: 558px;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
         }
         .doc-name .tn-atom {
             max-width: 558px;
             width: 558px;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
         }
     }
     @media (min-width: 960px) {
         .doc-name {
             max-width: 398px;
             width: 398px;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
         }
         .doc-name .tn-atom {
             max-width: 398px;
             width: 398px;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
         }
     }
     @media (min-width: 1200px) {
         .doc-name {
             max-width: 498px;
             width: 498px;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
         }
         .doc-name .tn-atom {
             max-width: 498px;
             width: 498px;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
         }
     }
 </style>
