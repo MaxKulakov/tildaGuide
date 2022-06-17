@@ -1,7 +1,8 @@
 # tildaGuide
 
-[phystech](/phystech/phystech.md)
-[bitru](/bitru/bitru.md)
+[phystech](/phystech/phystech.md)  
+[bitru](/bitru/bitru.md)  
+[github](https://github.com/MaxKulakov/tildaGuide)  
 
 ```bash
 .
