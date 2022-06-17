@@ -1,5 +1,8 @@
 # tildaGuide
 
+[phystech](/phystech/phystech.md)
+[bitru](/bitru/bitru.md)
+
 ```bash
 .
 ├── LICENSE
