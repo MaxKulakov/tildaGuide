@@ -1,5 +1,6 @@
 # Bitru
 ## Header background blur
+![Header background blur](images/header_blur.png?raw=true "Header background blur")
 ```bash
 <style>
     .t228__maincontainer {
@@ -19,7 +20,8 @@
 </style>
 ```
 
-## Card scroll
+## Screen scroll
+![Screen scroll](images/screen_scroll.png?raw=true "Screen scroll")
 ```bash
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
@@ -84,6 +86,7 @@ var autoPlay = setInterval( auto_play, timemode );
 ```
 
 ## Border card item
+![Border card item](images/card_scroll.png?raw=true "Border card item")
 ```bash
 <style>
     .catalog_card .tn-atom {
@@ -93,6 +96,7 @@ var autoPlay = setInterval( auto_play, timemode );
 ```
 
 ## Card horizontal scroll
+![Card horizontal scroll](images/card_scroll.png?raw=true "Card horizontal scroll")
 ```bash
 <!-- scroll catalog-->
 <script src="https://unpkg.com/scrollbooster@3/dist/scrollbooster.min.js" defer></script>
@@ -179,6 +183,7 @@ $(function() {
 
 
 ## Custom PopUp
+![Custom PopUp](images/custom_popup.png?raw=true "Custom PopUp")
 
 ```bash
 <!-- Pop-up on benefits and News -->
@@ -210,7 +215,7 @@ $(PopWindID + " .t-popup__container").parent(".t-popup").addClass("parpadding")
 ```
 
 ## Button hover in native contact block
-
+![Button hover](images/button_hover.png?raw=true "Button hover")
 ```bash
 <style>
     .tn-form__submit .t-submit:hover {
