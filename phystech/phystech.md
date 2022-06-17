@@ -1,6 +1,7 @@
 # Phystech
 
 ## Card scroll
+![Card scroll](/images/card_scroll.png?raw=true "Title")
 ```bash
 <!-- scroll first-rooms-->
 <script src="https://unpkg.com/scrollbooster@3/dist/scrollbooster.min.js" defer></script>
