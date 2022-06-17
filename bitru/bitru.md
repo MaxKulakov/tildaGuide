@@ -1,4 +1,5 @@
 # Bitru
+[View BitRu Site](http://bitru.pro/)  
 ## Header background blur
 ![Header background blur](images/header_blur.png?raw=true "Header background blur")
 ```bash
