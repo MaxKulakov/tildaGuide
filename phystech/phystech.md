@@ -1,7 +1,7 @@
 # Phystech
 
 ## Card scroll
-![Card scroll](images/card_scroll.png?raw=true "Title")
+![Card scroll](images/card_scroll.png?raw=true "Card scroll")
 ```bash
 <!-- scroll first-rooms-->
 <script src="https://unpkg.com/scrollbooster@3/dist/scrollbooster.min.js" defer></script>
@@ -82,6 +82,7 @@ $(function() {
 ```
 
 ## Hover img zoom
+![Hover image zoom](images/img_zoom.png?raw=true "Hover image zoom")
 ```bash
 <!-- Zoom images on Benefits and News -->
 
@@ -104,6 +105,7 @@ transform: scale(1.1);
 ```
 
 ## Custom PopUp
+![Custom PopUp](images/custom_popup.png?raw=true "Custom PopUp")
 ```bash
 <!-- Pop-up on benefits and News -->
 
@@ -130,6 +132,7 @@ $(PopWindID + " .t-popup__container").parent(".t-popup").addClass("parpadding")
 ```
 
 ## Dropdown block
+![Dropdown block](images/dropdown_block.png?raw=true "Dropdown block")
 ```bash
 <!--show all docs-->
 <style>
@@ -146,6 +149,7 @@ $(PopWindID + " .t-popup__container").parent(".t-popup").addClass("parpadding")
 ```
 
 ## Crop large text
+![Crop large text](images/large_text.png?raw=true "Crop large text")
 ```bash
 <style>
     /*.doc-background:hover{*/

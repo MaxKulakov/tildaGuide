@@ -1,6 +1,5 @@
 # Bitru
 ## Header background blur
-![Header background blur](/images/card_scroll.png?raw=true "Title")
 ```bash
 <style>
     .t228__maincontainer {
