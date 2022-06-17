@@ -1,7 +1,7 @@
 # Three
+[View ThreeJS Site](http://phystech.tilda.ws/three)  
 ## Tree JS in Page
 ![Tree JS in Page](images/screen.png?raw=true "Tree JS in Page")
-[View ThreeJS Site](http://phystech.tilda.ws/three)  
 
 ```bash
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r120/three.min.js"></script>
