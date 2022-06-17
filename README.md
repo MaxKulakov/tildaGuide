@@ -1,9 +1,12 @@
-# tildaGuide
+# ⚡️Tilda Guide
+
+Now there are only screenshots of the components and the code written for them. In the future, the library will be update with a complete instruction and a detailed description.  
 
 [Phystech](/phystech/phystech.md)  
 [BitRu](/bitru/bitru.md)  
 [Three JS](/three/three.md)  
-[Github](https://github.com/MaxKulakov/tildaGuide)  
+
+[Source code](https://github.com/MaxKulakov/tildaGuide)  
 
 ```bash
 .
@@ -25,5 +28,13 @@
 │   │   ├── img_zoom.png
 │   │   └── large_text.png
 │   └── phystech.md
-└── ref.md
+└── three
+    ├── images
+    │   └── screen.png
+    ├── site
+    │   ├── index.html
+    │   ├── script.js
+    │   └── style.css
+    └── three.md
+
 ```
