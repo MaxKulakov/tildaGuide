@@ -1,6 +1,6 @@
 # Tilda Learning
 
-Дизайн: [https://www.figma.com/file/LIitruU71Q2EG0MLe97r7g/Tilda-template-2?node-id=0%3A1](https://www.figma.com/file/LIitruU71Q2EG0MLe97r7g/Tilda-template-2?node-id=0%3A1)
+Дизайн: [https://www.figma.com/file/LIitruU71Q2EG0MLe97r7g/Tilda-template-2?node-id=0%3A1](https://www.figma.com/file/LIitruU71Q2EG0MLe97r7g/Tilda-template-2?node-id=0%3A1)  
 
 В случае необходимости используйте гайды из этого репозитория либо используйте скрипты, которые можно нагуглить. Если у Вас возникают проблемы с решением задачи, пропустите её и вернитесь к ней позже.
 
