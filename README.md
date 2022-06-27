@@ -6,6 +6,8 @@ Now there are only screenshots of the components and the code written for them. 
 [BitRu](/bitru/bitru.md)  
 [Three JS](/three/three.md)  
 
+[Learning](/learning/learning.md)  
+
 [Source code](https://github.com/MaxKulakov/tildaGuide)  
 
 ```bash
