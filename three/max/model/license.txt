@@ -1,0 +1,11 @@
+Model Information:
+* title:	Max Model
+* source:	https://sketchfab.com/3d-models/max-model-e7aa361b4bcc4e73bacb4e5aa0f1b586
+* author:	lost_admiral (https://sketchfab.com/lost_admiral)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Max Model" (https://sketchfab.com/3d-models/max-model-e7aa361b4bcc4e73bacb4e5aa0f1b586) by lost_admiral (https://sketchfab.com/lost_admiral) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
